@@ -1,8 +1,8 @@
 {
-  "name": "contador-crud",
+  "name": "propiedad-horizontal-crud",
   "version": "1.0.0",
-  "description": "modulo seguridad para propiedad horizontal",
-  "main": "registro_contador.js",
+  "description": "propiedad horizontal crud",
+  "main": "registro_contador.js, registro_propietario.js, registro_habitante.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

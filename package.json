@@ -1,0 +1,15 @@
+{
+  "name": "contador-crud",
+  "version": "1.0.0",
+  "description": "modulo seguridad para propiedad horizontal",
+  "main": "registro_contador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Equipo Energy - Grupo 39 Ciclo 4a - Mision TIC 2022",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.6"
+  }
+}

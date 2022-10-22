@@ -18,7 +18,7 @@ mongoose.connect("mongodb+srv://jackygl:Admin1510@clusterinmobiliariajack.z5fxbm
 //Operaciones CRUD
 //Función Obtener
 router.get(`/`, (req, res) =>{
-    res.send("Inicio API registro del contador");
+    res.send("Inicio API de registro Energy");
 })
 
 router.get(`/contador`, (req, res)=>{

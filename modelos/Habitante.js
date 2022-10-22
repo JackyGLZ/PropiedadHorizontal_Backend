@@ -1,6 +1,6 @@
 const mongoose = require(`mongoose`);
 
-let PropietarioSchema = new mongoose.Schema({
+let HabitanteSchema = new mongoose.Schema({
     idHabitante: Number,
     Nombres_habitante: String,
     Apellidos_habitante: String,

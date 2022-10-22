@@ -2,7 +2,7 @@
   "name": "propiedad-horizontal-crud",
   "version": "1.0.0",
   "description": "propiedad horizontal crud",
-  "main": "registro_contador.js, registro_propietario.js, registro_habitante.js",
+  "main": "registro_general.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

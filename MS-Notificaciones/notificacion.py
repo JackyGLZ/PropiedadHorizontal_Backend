@@ -8,7 +8,7 @@ app=Flask(__name__)
 @app.route('/')
 def inicio():
     twilio_sid = os.environ.get('TWILIO_ACCOUNT_SID')
-    return 'SID == AC1ff03f491954368be973ffe395426e10', twilio_sid
+    return 'SID =', twilio_sid
 
 
 @app.route('/sms')

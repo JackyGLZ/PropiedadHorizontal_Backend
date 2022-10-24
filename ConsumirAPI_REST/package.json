@@ -1,0 +1,12 @@
+{
+  "name": "consumirapi_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Equipo Energy Grupo 39 Ciclo 4a - Mision TIC 2022",
+  "license": "ISC"
+}
